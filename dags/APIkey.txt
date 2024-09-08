@@ -1,0 +1,3 @@
+S1IPTP90:c554469a-d27c-40d3-b994-4e2bbbaebbd0
+
+curl --digest --user S1IPTP90:c554469a-d27c-40d3-b994-4e2bbbaebbd0 --request GET 'https://ap-southeast-1.data.tidbcloud.com/api/v1beta/app/dataapp-OGXtAVuN/endpoint/test/top_country'
